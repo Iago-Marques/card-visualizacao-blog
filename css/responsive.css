@@ -1,0 +1,17 @@
+@media(max-width: 375px){
+   .container{
+      width: 32rem;
+   }
+
+   .img{
+      margin: 1.8rem;
+   }
+
+   .learning, .date-public, .text-content, .avatar-text p{
+      font-size: 1.2rem
+   }
+
+   h1{
+      font-size: 1.8rem;
+   }
+}
